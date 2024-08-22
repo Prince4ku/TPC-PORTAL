@@ -15,13 +15,13 @@ GETTING STARTED
 
 2. Open XAMPP Control panal and start [apache] and [mysql] .
 
-3. Download project from github(https://github.com/anshu11n/Placement-Cell-Portal).
+3. Download project from github(https://github.com/Prince4ku/TPC-PORTAL).
 
 OR follow gitbash commands
 
 i> cd C:\\xampp\htdocs\
 
-ii> git clone https://github.com/anshu11n/Placement-Cell-Portal
+ii> git clone https://[github.com/Prince4ku/TPC-PORTAL]
 
 4. Extract files in C:\xampp\htdocs.
 
