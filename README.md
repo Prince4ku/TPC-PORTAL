@@ -15,13 +15,13 @@ GETTING STARTED
 
 2. Open XAMPP Control panal and start [apache] and [mysql] .
 
-3. Download project from github(https://github.com/Prince4ku/TPC-PORTAL).
+3. Download project from github(https://github.com/anshu11n/Placement-Cell-Portal).
 
 OR follow gitbash commands
 
 i> cd C:\\xampp\htdocs\
 
-ii> git clone https://github.com/Prince4ku/TPC-PORTAL
+ii> git clone https://github.com/anshu11n/Placement-Cell-Portal
 
 4. Extract files in C:\xampp\htdocs.
 
@@ -33,7 +33,7 @@ ii> git clone https://github.com/Prince4ku/TPC-PORTAL
 
 8. After creating database name click on import.
 
-9. Browse the file in directory [placement-portal/database/db1.sql].
+9. Browse the file in directory [placement-portal/database/db.sql].
 
 10. Open any browser and type http://localhost/placement-portal.
 
@@ -53,7 +53,22 @@ Login Page
 ![Login Page](https://user-images.githubusercontent.com/87755170/184550718-f78d2e05-d90f-46cb-8a07-e3dcc3a538d3.png)
 
 
+Student Panel
 
+![student panl](https://user-images.githubusercontent.com/87755170/184550794-a778a02d-748c-490d-97ba-bf68c22fd3f4.png)
+
+
+Admin Panel
+
+![Screenshot 2022-05-20 234626](https://user-images.githubusercontent.com/87755170/184550961-84913a45-65ac-4a70-a5b9-233709dd4465.png)
+
+Resume Generator
+
+![resume](https://user-images.githubusercontent.com/87755170/184550823-82bb6049-9a64-4e51-a171-6c86a4645ab9.png)
+
+Check Eligibility
+
+![check eligibility](https://user-images.githubusercontent.com/87755170/184550829-86546902-a38c-4fe6-a53c-bf5844668f05.png)
 
 Resources
 
